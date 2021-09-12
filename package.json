@@ -1,0 +1,30 @@
+{
+  "name": "jcjang-webrtc",
+  "version": "1.0.0",
+  "description": "webRTC 학습을 하기 위한 공간입니다.\r 간단한 화상 채팅을 목표로 합니다.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjc4480/jjc4480-jcjang_webrtc.git"
+  },
+  "keywords": [],
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "author": "jcjang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjc4480/jjc4480-jcjang_webrtc/issues"
+  },
+  "homepage": "https://github.com/jjc4480/jjc4480-jcjang_webrtc#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.15.4",
+    "@babel/core": "^7.15.5",
+    "@babel/node": "^7.15.4",
+    "@babel/preset-env": "^7.15.6"
+  }
+}
